@@ -25,12 +25,36 @@ FreshBites is a snack & beverage brand operating across four regions. Over six m
 
 ### 🧹 3. Data Cleaning Steps
 
-Removed duplicates
-Trimmed extra spaces
-Fixed spelling errors (e.g., S0uth → South)
-Standardized month names
-Removed currency formatting from Spend/Revenue
-Calculated metrics using formulas
+To ensure accurate analysis and reporting, the following cleaning steps were performed in Excel:
+ 
+##### 1. Removed Formatting & Unnecessary Characters
+* Removed extra spaces before/after text using:
+#### =TRIM(A2)
+
+* Removed symbols from numeric columns (e.g., $ in Spend/Revenue).
+  
+2. Corrected Typos and Inconsistent Labels
+Fixed region spelling errors (e.g., S0uth → South).
+Corrected incorrect month names (Jn → Jan).
+Standardized all channels to:
+Email, Social Media, In-Store
+3. Standardized Text Case
+Converted categories to Proper Case to prevent duplicates (Excel function: =PROPER(A2)).
+4. Checked for & Removed Duplicates
+Used: Data → Remove Duplicates
+Ensured only unique campaign rows remained.
+5. Verified Data Types
+Ensured numeric fields (Impressions, Clicks, Spend, Revenue) were formatted as numbers.
+Ensured Month and Region were formatted as text categories.
+6. Calculated New Analytical Metrics
+These were added as new columns:
+CTR (Click-Through Rate)
+=Clicks / Impressions
+CVR (Conversion Rate)
+=Conversions / Clicks
+ROI (Return on Investment)
+=(Revenue - Spend) / Spend
+These metrics helped reveal trends in channel efficiency, regional performance, and overall campaign profitability.
 
 
 
