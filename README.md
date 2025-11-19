@@ -1,34 +1,40 @@
 # Marketing-ROI-Analysis-for-FreshBites
 
-📂 Project Title: Marketing ROI Analysis for FreshBites
-📘 1. Business Overview
-A short paragraph explaining:
-Who FreshBites is
-What the business goal was
-What questions you were trying to answer
-Example:
+### 📘 1. Business Overview
+
 FreshBites is a snack & beverage brand operating across four regions. Over six months, they invested in Email, Social Media, and In-Store campaigns. This analysis evaluates which channels and regions performed best in engagement, conversions, and ROI.
-📄 2. Business Requirements Document (BRD)
-Link your uploaded file:
-📎 BRD: [Evaluating Marketing ROI at FreshBites_ Email vs.docx](/mnt/data/Evaluating Marketing ROI at FreshBites_ Email vs.docx)
-This section tells interviewers you understand project framing — a big marketing analyst skill.
-📊 3. Dataset
-Write:
-What the dataset contains
-Raw vs cleaned
-Columns included
-Then link the dataset:
-📎 Dataset: FreshBites_Dataset.xlsx (I can generate a download-ready version if you want)
-🧹 4. Data Cleaning Steps
-This section is VERY important — shows analytical thinking.
-You can list the exact steps you took:
+
+### 📊 2. Dataset
+
+📎 [Dataset:](https://docs.google.com/spreadsheets/d/1wPQ-JPX7bdm6bEROPsFGYeUQ1XVqWStX/edit?usp=sharing&ouid=111705402339782691602&rtpof=true&sd=true)
+
+|    Column    |                  Description                         |
+|--------------|------------------------------------------------------|
+|Month	      |  Month of campaign (e.g., Jan–Jun)                   |
+|Region	      |  Region where the campaign ran                       |
+|Channel	      |  Marketing channel (Email, Social Media, In-Store)   |
+|Impressions	|  Total reach for the campaign                        |
+|Clicks	      |  User engagement actions                             |
+|Conversions	|  Number of users who completed a purchase            |
+|Spend	      |  Total marketing budget spent                        |
+|Revenue	      |  Sales generated from the campaign                   |
+
+##### 📌 *Dataset Notes*
+* The file contains dirty data such as typos, inconsistent formatting, and spacing issues.
+* Several values required standardization before analysis.
+
+### 🧹 3. Data Cleaning Steps
+
 Removed duplicates
 Trimmed extra spaces
 Fixed spelling errors (e.g., S0uth → South)
 Standardized month names
 Removed currency formatting from Spend/Revenue
 Calculated metrics using formulas
-If you want, I can write this entire section for you.
+
+
+
+
 📈 5. Tools Used
 List the tools clearly:
 Excel — data cleaning, formulas, pivot tables
