@@ -27,17 +27,20 @@ FreshBites is a snack & beverage brand operating across four regions. Over six m
 
 To ensure accurate analysis and reporting, the following cleaning steps were performed in Excel:
  
-##### 1. Removed Formatting & Unnecessary Characters
+#### 1. Removed Formatting & Unnecessary Characters
 * Removed extra spaces before/after text using:
-#### =TRIM(A2)
-
+  ##### =TRIM(A2)
 * Removed symbols from numeric columns (e.g., $ in Spend/Revenue).
   
-2. Corrected Typos and Inconsistent Labels
-Fixed region spelling errors (e.g., S0uth → South).
-Corrected incorrect month names (Jn → Jan).
-Standardized all channels to:
-Email, Social Media, In-Store
+#### 2. Corrected Typos and Inconsistent Labels
+
+* Fixed region spelling errors (e.g., S0uth → South).
+* Corrected incorrect month names (Jn → Jan).
+* Standardized all channels to:
+  =Email=
+  ii.  Social Media,
+  iii. In-Store
+  
 3. Standardized Text Case
 Converted categories to Proper Case to prevent duplicates (Excel function: =PROPER(A2)).
 4. Checked for & Removed Duplicates
