@@ -1,10 +1,10 @@
 # Marketing-ROI-Analysis-for-FreshBites
 
-### 📘 1. Business Overview
+### 1. Business Overview
 
 FreshBites is a snack & beverage brand operating across four regions. Over six months, they invested in Email, Social Media, and In-Store campaigns. This analysis evaluates which channels and regions performed best in engagement, conversions, and ROI.
 
-### 📊 2. Dataset
+### 2. Dataset
 
 📎 [Dataset:](https://docs.google.com/spreadsheets/d/1wPQ-JPX7bdm6bEROPsFGYeUQ1XVqWStX/edit?usp=sharing&ouid=111705402339782691602&rtpof=true&sd=true)
 
@@ -69,13 +69,13 @@ These were added as new columns:
 ---- These metrics helped reveal trends in channel efficiency, regional performance, and overall campaign profitability
 
 
-### 📈 4. Tools Used
+### 4. Tools Used
 
  * Excel — data cleaning, formulas, pivot tables
  * PowerPoint — presentation design
  * GitHub — version control + project tracking
 
-### 📊 5. Analysis & Insights
+### 5. Analysis & Insights
 
 ##### Channel Performance
 * Social Media → highest conversion efficiency (26.6%)
@@ -91,7 +91,7 @@ These were added as new columns:
 * February → highest conversion rate
 * March → highest engagement (CTR)
 
-### 🎨 6. Visualizations
+### 6. Visualizations
 
 Instead of screenshots, you can upload your charts inside a /charts folder.
 Structure:
@@ -107,7 +107,7 @@ I can help you create PNGs from your PPT if needed.
 
 ### 📝 7. Final Presentation
 
-📎 Presentation: [FreshBites Presentation](/mnt/data/F&B (Food & Beverage) Business Plan by Slidesgo.pptx)
+📎 Presentation: [FreshBites Presentation](https://docs.google.com/presentation/d/1NukL_XI2hUFO4Rf24UdMkg4H4HiVB93f/edit?usp=sharing&ouid=111705402339782691602&rtpof=true&sd=true)
 
 ### 💡 8. Recommendations
 
