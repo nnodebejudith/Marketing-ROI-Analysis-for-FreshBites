@@ -100,16 +100,12 @@ Structure:
    - conversion_rate_monthly.png
    - regional_performance.png
 
-Then display them in the README:
-### ROI by Channel
-![ROI by Channel](charts/roi_by_channel.png)
-I can help you create PNGs from your PPT if needed.
 
-### 📝 7. Final Presentation
+### 7. Final Presentation
 
 📎 Presentation: [FreshBites Presentation](https://docs.google.com/presentation/d/1NukL_XI2hUFO4Rf24UdMkg4H4HiVB93f/edit?usp=sharing&ouid=111705402339782691602&rtpof=true&sd=true)
 
-### 💡 8. Recommendations
+### 8. Recommendations
 
 Increase budget for East + South (high ROI + strong activity)
 Improve Email targeting to match Social Media efficiency
