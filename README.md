@@ -6,7 +6,7 @@ FreshBites is a snack & beverage brand operating across four regions. Over six m
 
 ### 2. Dataset
 
-📎 [Dataset:](https://docs.google.com/spreadsheets/d/1wPQ-JPX7bdm6bEROPsFGYeUQ1XVqWStX/edit?usp=sharing&ouid=111705402339782691602&rtpof=true&sd=true)
+[Dataset:](https://docs.google.com/spreadsheets/d/1wPQ-JPX7bdm6bEROPsFGYeUQ1XVqWStX/edit?usp=sharing&ouid=111705402339782691602&rtpof=true&sd=true)
 
 |    Column    |                  Description                         |
 |--------------|------------------------------------------------------|
@@ -19,11 +19,11 @@ FreshBites is a snack & beverage brand operating across four regions. Over six m
 |Spend	      |  Total marketing budget spent                        |
 |Revenue	      |  Sales generated from the campaign                   |
 
-##### 📌 *Dataset Notes*
+##### *Dataset Notes*
 * The file contains dirty data such as typos, inconsistent formatting, and spacing issues.
 * Several values required standardization before analysis.
 
-### 🧹 3. Data Cleaning Steps
+### 3. Data Cleaning Steps
 
 To ensure accurate analysis and reporting, the following cleaning steps were performed in Excel:
  
@@ -103,7 +103,7 @@ Structure:
 
 ### 7. Final Presentation
 
-📎 Presentation: [FreshBites Presentation](https://docs.google.com/presentation/d/1NukL_XI2hUFO4Rf24UdMkg4H4HiVB93f/edit?usp=sharing&ouid=111705402339782691602&rtpof=true&sd=true)
+Presentation: [FreshBites Presentation](https://docs.google.com/presentation/d/1NukL_XI2hUFO4Rf24UdMkg4H4HiVB93f/edit?usp=sharing&ouid=111705402339782691602&rtpof=true&sd=true)
 
 ### 8. Recommendations
 
