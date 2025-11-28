@@ -10,7 +10,7 @@ FreshBites is a snack & beverage brand operating across four regions. Over six m
 
 |    Column    |                  Description                         |
 |--------------|------------------------------------------------------|
-|Month	      |  Month of campaign (e.g., Jan–Jun)                   |
+|Month	      |  Month of campaign                  |
 |Region	      |  Region where the campaign ran                       |
 |Channel	      |  Marketing channel (Email, Social Media, In-Store)   |
 |Impressions	|  Total reach for the campaign                        |
@@ -35,7 +35,7 @@ To ensure accurate analysis and reporting, the following cleaning steps were per
 #### Corrected Typos and Inconsistent Labels
 
 * Fixed region spelling errors (e.g., S0uth → South).
-* Corrected incorrect month names (Jn → Jan).
+* Corrected incorrect month names (Jn → June).
 * Standardized all channels to:
   ##### i.   Email,
   ##### ii.  Social Media,
@@ -71,8 +71,8 @@ These were added as new columns:
 
 ### 4. Tools Used
 
- * Excel — data cleaning, formulas, pivot tables
- * PowerPoint — presentation design
+ * Excel — data cleaning, formulas, pivot tables, Graphs (visuals)
+ * PowerPoint — presentation design (insights + reccomendations )
  * GitHub — version control + project tracking
 
 ### 5. Analysis & Insights
@@ -91,23 +91,15 @@ These were added as new columns:
 * February → highest conversion rate
 * March → highest engagement (CTR)
 
-### 6. Visualizations
+### 6. Visualizations 
 
-Instead of screenshots, you can upload your charts inside a /charts folder.
-Structure:
 /charts
    - roi_by_channel.png
    - conversion_rate_monthly.png
    - regional_performance.png
 
 
-### 7. Final Presentation
+### 7. Final Presentation + Recommendations
 
 Presentation: [FreshBites Presentation](https://docs.google.com/presentation/d/1NukL_XI2hUFO4Rf24UdMkg4H4HiVB93f/edit?usp=sharing&ouid=111705402339782691602&rtpof=true&sd=true)
-
-### 8. Recommendations
-
-Increase budget for East + South (high ROI + strong activity)
-Improve Email targeting to match Social Media efficiency
-Push In-store campaigns during Feb–Mar (peak season)
 
