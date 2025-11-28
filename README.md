@@ -68,7 +68,6 @@ These were added as new columns:
 
 ---- These metrics helped reveal trends in channel efficiency, regional performance, and overall campaign profitability
 
-
 ### 4. Tools Used
 
  * Excel — data cleaning, formulas, pivot tables, Graphs (visuals)
@@ -81,6 +80,8 @@ These were added as new columns:
 * Social Media → highest conversion efficiency (26.6%)
 * Email → highest total engagement & conversions
 * In-Store → highest ROI ($1 → $9.41 return)
+
+![]([https://github.com/nnodebejudith/Judith-Nnodebe-Portfolio/blob/main/professional%20pic%202.png](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/Coversion%20by%20Channel%20%20.png)
 
 ##### Regional Performance
 * East → strongest ROI
