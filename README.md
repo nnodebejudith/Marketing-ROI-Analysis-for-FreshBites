@@ -92,7 +92,7 @@ These were added as new columns:
 * North → weakest performance, needs improveme
 
 ![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/Clicks%20vs%20Conversion%20by%20Regions%20%20.jpg)
-![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/ROI%20by%20Regions%20%20.jpg)
+![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/Total%20Impressions%20by%20Region%20%20.jpg)
 ![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/ROI%20by%20Regions%20%20.jpg)
 
 ##### Monthly Trends
