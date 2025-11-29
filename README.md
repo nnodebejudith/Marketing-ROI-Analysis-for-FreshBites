@@ -85,9 +85,10 @@ These were added as new columns:
 ![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/Coversion%20by%20Channel%20%20.png)
 
 ##### Regional Performance
-* East → strongest ROI
-* South → most active audience
-* North → underperforming
+* East → strongest ROI, most efficient region
+* South → most active and engaged audience
+* West → balanced performance with steady returns
+* North → weakest performance, needs improveme
 
 ##### Monthly Trends
 * February → highest conversion rate
