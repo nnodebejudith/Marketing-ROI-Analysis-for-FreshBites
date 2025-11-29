@@ -94,13 +94,9 @@ These were added as new columns:
 * February → highest conversion rate
 * March → highest engagement (CTR)
 
-### 6. Visualizations 
+### 6. Data & Supporting Materials
 
-/charts
-   - roi_by_channel.png
-   - conversion_rate_monthly.png
-   - regional_performance.png
-
+Excel file : [Freshbite Data & Assets](
 
 ### 7. Final Presentation + Recommendations
 
