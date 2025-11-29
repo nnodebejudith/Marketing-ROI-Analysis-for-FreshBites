@@ -103,7 +103,7 @@ These were added as new columns:
 
 ### 6. Data & Supporting Materials
 
-Excel file : [Freshbite Data & Assets](
+Excel file : [Freshbite Data & Assets](https://docs.google.com/spreadsheets/d/1gEEQr6-RZi4FdPQY4dXf_6HskQKMHWfF/edit?usp=sharing&ouid=111705402339782691602&rtpof=true&sd=true)
 
 ### 7. Final Presentation + Recommendations
 
