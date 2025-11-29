@@ -99,7 +99,7 @@ These were added as new columns:
 * February → highest conversion rate
 * March → highest engagement (CTR)
 
-![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/Monthly%20Conversion%20Rate%20vs%20Click%20Through%20Rate%20.jpg)
+![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/Monthly%20Conversion%20Rate%20vs%20Click%20Through%20Rate.jpg)
 
 ### 6. Data & Supporting Materials
 
