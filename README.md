@@ -81,7 +81,7 @@ These were added as new columns:
 * Email → highest total engagement & conversions
 * In-Store → highest ROI ($1 → $9.41 return)
 
-![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/Impressions%20Vs%20Clicks%20by%20Channels%20.png)
+![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/Click%20Through%20Rate%20vs%20Conversion%20Rate%20by%20Channels%20%20.jpg)
 ![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/Coversion%20by%20Channel%20%20.png)
 
 ##### Regional Performance
