@@ -91,9 +91,15 @@ These were added as new columns:
 * West → balanced performance with steady returns
 * North → weakest performance, needs improveme
 
+![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/Clicks%20vs%20Conversion%20by%20Regions%20%20.jpg)
+![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/ROI%20by%20Regions%20%20.jpg)
+![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/ROI%20by%20Regions%20%20.jpg)
+
 ##### Monthly Trends
 * February → highest conversion rate
 * March → highest engagement (CTR)
+
+![alt text](https://raw.githubusercontent.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites/refs/heads/main/Monthly%20Conversion%20Rate%20vs%20Click%20Through%20Rate%20.jpg)
 
 ### 6. Data & Supporting Materials
 
